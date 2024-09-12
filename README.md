@@ -6,6 +6,8 @@ I am currently a computer science student passionate about exploring the interse
 ## Projects
 - [Facial recognition Attendance Project](link-to-project-1): A comprehensive attendance system using facial recognition with a user-friendly GUI to mark attendance for students or employees. The project uses OpenCV for capturing video, face_recognition for recognizing faces, and SQLite for storing attendance records. The system also includes functionalities for exporting data to CSV, visualizing attendance data, and viewing attendance records.
 
+- [Language Hub - Flask website](https://github.com/sandeep7224/Flask-Website): Language Hub is a user-friendly web application that offers text-to-speech conversion, speech-to-text transcription, and multilingual text translation. Built using Flask, it leverages powerful libraries like gTTS, Googletrans, and SpeechRecognition to deliver accurate and efficient language processing capabilities. Perfect for enhancing communication and accessibility.
+
 ## Skills
 - Python
 - Flask
