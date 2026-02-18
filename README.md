@@ -1,4 +1,4 @@
-# Hello, I'm Sandeep Gupta 👋
+# Hello, I'm Sandip Gupta 👋
 
 ## About Me
 I am currently a computer science student passionate about exploring the intersections of technology and data. My interests lie in machine learning, data science, and data analysis, where I enjoy uncovering insights and solving complex problems through data-driven approaches. With a strong foundation in Python and web development using Flask, I am keen on integrating these skills into projects that leverage AI and data to create impactful solutions.
